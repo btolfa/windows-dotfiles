@@ -1,0 +1,10 @@
+# To use common configuration in %APPDATA%\mintty, simply remove this file
+BoldAsFont=-1
+Font=PragmataPro Mono
+FontHeight=14
+Locale=ru_RU
+ThemeFile=solorized
+Transparency=off
+Columns=170
+Rows=40
+Term=xterm-256color
